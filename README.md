@@ -2,13 +2,13 @@
 
 ## Overview of Analysis 
 
-# Purpose 
+## Purpose 
 
 One of the purposes of this analysis was to show a summary of the total rides, total drivers, total fares, average fare per ride and average fare per driver based on the type of city: urban, suburban and rural. The second part of this analysis consisted of creating a multiple line plot to show the total weekly fares for each city. Putting all three city types on one graph, it makes the process of comparison and visualization particularly compelling and informative. 
 
 ## Results
 
-There are quite a few differences in ride-sharing data among the different city types. There are more total rides in urban cities which has resulted in the highest total fare. As a result, there are also more drivers in urban cities. Rural cities on the other hand, have significantly less total rides and total drivers. Because there are less rides, the total fares are much less than in both urban and suburban cities. While it makes logical sense that more people would use ridesharing in urban cities where most people do not have access or own cars, but a conclusion on this cannot necessarily be drawn without statistical testing.  Suburban cities have more total rides and drivers than rural cities, but less than urban cities. Thus, as shown in the multiple line graph, the line showing the suburban cities’ total fares rests in between urban and rural cities. 
+There are quite a few differences in ride-sharing data among the different city types. There are more total rides in urban cities which has resulted in the highest total fare. As a result, there are also more drivers in urban cities. Rural cities on the other hand, have significantly less total rides and total drivers. Because there are less rides, the total fares are much less than in both urban and suburban cities. While it makes logical sense that more people would use ridesharing in urban cities where most people do not have access or own cars, but a conclusion on this cannot necessarily be drawn without statistical testing.  Suburban cities have more total rides and drivers than rural cities, but less than urban cities. Thus, as shown in the multiple line graph, the line showing the suburban cities’ total fares rests in between urban and rural cities ![Total Fare by City Type](images/Total_Fare_by_City_Type_graph.png). 
 
 ## Summary
 
